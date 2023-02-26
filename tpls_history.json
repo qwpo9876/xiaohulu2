@@ -1,0 +1,41 @@
+{
+    "version": "20230202",
+    "har": {
+        "OPENFRP签到": {
+            "name": "openfrp签到",
+            "author": "heiu",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/openfrp签到.har",
+            "update": false,
+            "comments": "账号+密码<br>每天签到，有签到后奖励提示<br>https://www.openfrp.net/",
+            "filename": "openfrp签到.har",
+            "content": "",
+            "date": "2023-02-02 18:06:09",
+            "version": "20230202",
+            "commenturl": "https://github.com/xheiu/templates/issues/1"
+        },
+        "coco云梯自动签到": {
+            "name": "coco云梯自动签到",
+            "author": "heiu",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/coco云梯自动签到.har",
+            "update": false,
+            "comments": "账号+密码<br>每天签到，有签到后奖励提示，网址可能会不定时更新<br>http://www.coco345.buzz/",
+            "filename": "coco云梯自动签到.har",
+            "content": "",
+            "date": "2023-01-20 18:39:46",
+            "version": "20230119",
+            "commenturl": "https://github.com/xheiu/templates/issues/2"
+        },
+        "嘉立创签到cookie": {
+            "name": "嘉立创签到cookie",
+            "author": "heiu",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/嘉立创签到cookie.har",
+            "update": false,
+            "comments": "嘉立创签到,coookie版，后面会完善账号版本<br>https://oshwhub.com/",
+            "filename": "嘉立创签到cookie.har",
+            "content": "",
+            "date": "2023-01-27 18:13:07",
+            "version": "20230127",
+            "commenturl": "https://github.com/xheiu/templates/issues/3"
+        }	
+    }
+}
